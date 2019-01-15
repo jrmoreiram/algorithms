@@ -1,2 +1,2 @@
 # Algorithms
-Repositório destinado ao projeto Algorithms.
+Repositório destinado a projetos de algoritmos.
