@@ -1,2 +1,2 @@
 # Lógica de Programação e Algoritimos
-Projetos referentes a lógica de programação e algoritmos.
+Repositório destinado a projetos referentes a lógica de programação e algoritmos.
